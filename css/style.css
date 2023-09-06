@@ -1,0 +1,18 @@
+h1{
+    color:red;
+}
+body{
+    background-color: rgb(243, 243, 187);
+}
+
+p{
+    color:blueviolet;
+    font-size:20px;
+}
+
+img {
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+  }
